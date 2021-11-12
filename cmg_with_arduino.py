@@ -1,3 +1,6 @@
+# 파일 실행하려면 별도의 method들을 정리한 Utills.py파일이 필요함. 하단 링크로 들어가면 됨.
+# https://github.com/yongja2005/CMG_HILS_Portfolio/blob/main/Utills.py
+
 import numpy as np
 import pandas as pd
 import math
